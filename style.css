@@ -1,0 +1,55 @@
+.bg-image {
+    background: url("animals/pictures/wallpaper2.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.petshop_name {
+    font-weight: bold;
+    position: absolute;
+    font-family: 'Dancing Script', cursive;
+    padding: 2% 0 30% 50%;
+    font-size: 5rem;
+    color: white;
+}
+
+.show_more_img {
+    width: 300px;
+    height: 300px;
+    padding: 20px 20px;
+}
+
+.userImage {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.shadow {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.profile_text {
+    padding: 5% 10%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+
+.footer-text {
+    font-size: 1rem;
+}
+
+.footer {
+    background-color: #525401;
+    height: 60px;
+}
